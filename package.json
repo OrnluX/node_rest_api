@@ -3,10 +3,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Ivan Tarquini <ivantarquini91@gmail.com> (https://ivantarquini.com/)",
+  "author": "Ivan Tarquini (https://ivantarquini.com/)",
   "license": "MIT",
   "description": "",
   "devDependencies": {
