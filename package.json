@@ -15,7 +15,8 @@
   "dependencies": {
     "cors": "2.8.5",
     "express": "4.21.1",
-    "node_api_v1.0": "file:"
+    "node_api_v1.0": "file:",
+    "zod": "3.23.8"
   },
   "eslintConfig": {
     "extends": "./node_modules/standard/eslintrc.json"
